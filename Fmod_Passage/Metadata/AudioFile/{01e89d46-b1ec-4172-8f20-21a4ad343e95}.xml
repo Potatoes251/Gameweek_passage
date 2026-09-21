@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{01e89d46-b1ec-4172-8f20-21a4ad343e95}">
+		<property name="assetPath">
+			<value>Guns, Automatic, Gunshots, Machine Gun, Burst 04 SND34461.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.98593750000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eecfef5c-ee18-49eb-bd31-f66d94c16628}</destination>
+		</relationship>
+	</object>
+</objects>

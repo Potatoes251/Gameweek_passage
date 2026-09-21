@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ea0d32fa-3e6c-44f4-9a9c-49eb28d5ac95}">
+		<property name="assetPath">
+			<value>Musical, Chime, Wind Chimes, Dry SND36758 2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>23.954770833333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eecfef5c-ee18-49eb-bd31-f66d94c16628}</destination>
+		</relationship>
+	</object>
+</objects>

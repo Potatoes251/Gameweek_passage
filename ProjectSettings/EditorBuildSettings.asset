@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scene.unity
+    guid: 47c917f6d0ba1af448250b68f95d3d5a
+  - enabled: 0
+    path: Assets/Scenes/Mateo.unity
+    guid: b1682bb87453aa14fab62e16077b347d
+  - enabled: 1
+    path: Assets/Scenes/Layout LD propre.unity
+    guid: d607a94c68affe543803f422e3e91cc9
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

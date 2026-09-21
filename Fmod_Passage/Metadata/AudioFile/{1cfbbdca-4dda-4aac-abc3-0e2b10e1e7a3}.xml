@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1cfbbdca-4dda-4aac-abc3-0e2b10e1e7a3}">
+		<property name="assetPath">
+			<value>Human, Breath, Female, Quiet, Nasal, Slow, Steady, Inhale, Exhale SND130282 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.6710208333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eecfef5c-ee18-49eb-bd31-f66d94c16628}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c0245b26-9a7c-4ef1-87b1-3898986773fe}">
+		<property name="assetPath">
+			<value>Wind, Tonal, Sound Sculpture, Aeolian Harp, Vibration Pole, Bass Chord Continuous Note Whistling, Embalse Puclaro 03 SND81322.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>74.164072916666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{eecfef5c-ee18-49eb-bd31-f66d94c16628}</destination>
+		</relationship>
+	</object>
+</objects>
