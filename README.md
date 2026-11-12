@@ -1,17 +1,24 @@
 # Passsage
 
-*A contemplative exploration game, made by a team of nine in five days for our third-year back-to-school game week.*
-
-![screenshot](Documents/02_Passage_Screenshot_03.png)
-
-## About
-
 Wander a quiet map at your own pace. A yak follows close behind you, and as you explore, you'll come across the tracks of those who walked before you.
 You leave your own mark too: both you and your yak leave tracks in the snow behind you as you walk.
 
 The journey asks you to pace yourself. Walking wears down your stamina, so you'll need to stop and rest to get it back. 
 Deep snow is harsher still: wading through it lowers your maximum stamina, so the shortcut isn't always the kindest route. 
 Find a campfire to recharge faster and recover what the cold has taken.
+
+## Table of Contents
+ 
+- [Screenshot](#screenshot)
+- [Features](#features)
+- [Controls](#controls)
+- [Options](#options)
+
+## Screenshot
+
+*A contemplative exploration game, made by a team of nine in five days for our third-year back-to-school game week.*
+
+![screenshot](Documents/02_Passage_Screenshot_03.png)
 
 ## Features
 
@@ -28,3 +35,11 @@ Find a campfire to recharge faster and recover what the cold has taken.
 | Action | Input |
 | --- | --- |
 | Move | [WASD / Arrow keys] |
+
+## Options
+
+| Name | Effect |
+| --- | --- |
+| Music | Music volume |
+| Sound | Sound volume |
+
